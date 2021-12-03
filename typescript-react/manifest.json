@@ -1,7 +1,7 @@
 {
   "id": "cw.table-of-contents",
   "name": "Craft - Table of Contents",
-  "fileName": "typescript-react-extension",
+  "fileName": "table-of-contents",
   "author" : "Charles W",
   "description" : "Extension to quickly create a Table of Contents from a page's headings",
   "api": "0.1.0",
